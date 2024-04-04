@@ -3266,7 +3266,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #e7b788;
+				color: #e000000;
 			}
 
 			#header.alt.style5 .logo strong {
@@ -3511,7 +3511,7 @@ input, select, textarea {
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: #000000;
 		}
 
 		#banner.style5:after {
