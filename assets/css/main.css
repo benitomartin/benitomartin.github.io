@@ -3488,7 +3488,7 @@ input, select, textarea {
 					text-transform: uppercase;
 				}
 
-		#banner.major {
+		#banner.style4 { /* before was banner.major */
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
