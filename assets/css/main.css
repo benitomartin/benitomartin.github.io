@@ -2341,6 +2341,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+
 	}
 
 		ul.icons li {
@@ -2352,10 +2353,13 @@ input, select, textarea {
 				padding-right: 0;
 			}
 
+
+
 		@media screen and (max-width: 736px) {
 
 			ul.icons li {
 				padding: 0 0.75em 0 0;
+
 			}
 
 		}
@@ -3266,7 +3270,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #e000000;
+				color: #000000;
 			}
 
 			#header.alt.style5 .logo strong {
@@ -3488,7 +3492,7 @@ input, select, textarea {
 					text-transform: uppercase;
 				}
 
-		#banner.style4 { /* before was banner.major */
+		 #banner.style4 { /* before was banner.major */
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
@@ -3512,6 +3516,7 @@ input, select, textarea {
 
 		#banner.style4:after {
 			background-color: #000000;
+
 		}
 
 		#banner.style5:after {
