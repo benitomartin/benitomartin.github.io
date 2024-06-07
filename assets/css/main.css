@@ -3607,10 +3607,16 @@ input, select, textarea {
 
 		#main > * {
 			border-top: solid 1px rgba(212, 212, 255, 0.1);
+
 		}
 
 			#main > *:first-child {
 				border-top: 0;
+			}
+
+			.no-border {
+				border-top: none !important;
+				
 			}
 
 			#main > * > .inner {
@@ -3618,6 +3624,7 @@ input, select, textarea {
 				margin: 0 auto;
 				max-width: 65em;
 				width: calc(100% - 6em);
+				
 			}
 
 				@media screen and (max-width: 736px) {
