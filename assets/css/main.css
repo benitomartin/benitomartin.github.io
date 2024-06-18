@@ -3761,7 +3761,7 @@ input, select, textarea {
 }
 
 #footer .icons li {
-	margin: 0 15px;
+	margin: 0 20px;
 }
 
 /* Adjustments for smaller screens */
@@ -3780,7 +3780,7 @@ input, select, textarea {
 	}
 
 	#footer .icons {
-		flex-direction: column;
+		justify-content: center; /* Ensure items are centered */
 	}
 	#footer .icons li {
 		margin: 10px 0;
