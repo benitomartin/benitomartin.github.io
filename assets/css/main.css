@@ -3783,7 +3783,7 @@ input, select, textarea {
 		justify-content: center; /* Ensure items are centered */
 	}
 	#footer .icons li {
-		margin: 20px 0;
+		margin: 20px;
 	}
 }
 
