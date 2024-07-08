@@ -1,3 +1,3 @@
 # My Personal Website
 
-https://benitomartin.github.io/
+https://martindatasol.com/
